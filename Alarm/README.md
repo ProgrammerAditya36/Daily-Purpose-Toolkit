@@ -1,5 +1,5 @@
-# TimeToDoShit
-Python GUI countdown timer, mulit-thread, force push warning popup in the front.
+
+# Python GUI countdown timer, mulit-thread, force push warning popup in the front.
 
 
 # HOW TO USE
